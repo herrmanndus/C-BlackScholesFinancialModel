@@ -31,7 +31,7 @@ Implementation notes by Dustin:
 
 
 
-/// ORIGINAL TASK PROVIDED BY FINBOURNE 
+/// ORIGINAL TASK  
 The goal is to implement some code in C-sharp to price an equity option. This should be done by creating a class EquityOption, for example, which inherits from the provided IEquityOption interface and implements the methods specified there. 
 
 
